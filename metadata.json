@@ -1,0 +1,5 @@
+{
+  "name": "Logos: Belief-Guided Agent",
+  "description": "A visualization of the Vervaeke Agent's propositional layer (v0.7.2), demonstrating Bayesian belief updates, salience scaling, and behavior emergence in a simulated environment.",
+  "requestFramePermissions": []
+}
